@@ -115,6 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="chSOLID_types.h" />
+    <ClInclude Include="Ch_BBox.h" />
+    <ClInclude Include="CH_Convex.h" />
+    <ClInclude Include="ch_GEN_MinMax.h" />
+    <ClInclude Include="ch_GEN_random.h" />
+    <ClInclude Include="CH_Scalar.h" />
+    <ClInclude Include="ch_ScalarTracer.h" />
+    <ClInclude Include="CH_Shape.h" />
+    <ClInclude Include="Tuple3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
