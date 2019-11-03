@@ -45,5 +45,26 @@
     <ClInclude Include="Tuple3.h">
       <Filter>Base</Filter>
     </ClInclude>
+    <ClInclude Include="CH_Vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CH_Point3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="interval.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CH_Interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tuple4.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Base</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

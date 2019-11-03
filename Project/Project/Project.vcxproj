@@ -120,10 +120,17 @@
     <ClInclude Include="CH_Convex.h" />
     <ClInclude Include="ch_GEN_MinMax.h" />
     <ClInclude Include="ch_GEN_random.h" />
+    <ClInclude Include="CH_Interval.h" />
+    <ClInclude Include="CH_Point3.h" />
     <ClInclude Include="CH_Scalar.h" />
     <ClInclude Include="ch_ScalarTracer.h" />
     <ClInclude Include="CH_Shape.h" />
+    <ClInclude Include="CH_Vector3.h" />
+    <ClInclude Include="interval.h" />
+    <ClInclude Include="Quaternion.h" />
     <ClInclude Include="Tuple3.h" />
+    <ClInclude Include="Tuple4.h" />
+    <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
