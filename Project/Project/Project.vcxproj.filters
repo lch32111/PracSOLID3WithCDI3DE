@@ -66,5 +66,11 @@
     <ClInclude Include="Quaternion.h">
       <Filter>Base</Filter>
     </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3x3.h">
+      <Filter>Base</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

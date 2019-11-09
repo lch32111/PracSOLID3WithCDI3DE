@@ -127,7 +127,9 @@
     <ClInclude Include="CH_Shape.h" />
     <ClInclude Include="CH_Vector3.h" />
     <ClInclude Include="interval.h" />
+    <ClInclude Include="Matrix3x3.h" />
     <ClInclude Include="Quaternion.h" />
+    <ClInclude Include="Transform.h" />
     <ClInclude Include="Tuple3.h" />
     <ClInclude Include="Tuple4.h" />
     <ClInclude Include="Vector3.h" />
